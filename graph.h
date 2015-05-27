@@ -1,3 +1,5 @@
+//Author : Jayant Kumar, jayant@umiacs.umd.edu, UMD college park
+
 #ifndef __GRAPH__
 #define __GRAPH__
 #include <iostream>
