@@ -1,4 +1,4 @@
-# textline
+# Textline segmentation
 
 My implementation of handwritten textline segmentation in document images. Initially it was done using UMD DOCLIB library but this version I used OpenCV for image loading/processing part. 
 
