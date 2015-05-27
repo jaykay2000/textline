@@ -1,3 +1,5 @@
+//Author : Jayant Kumar, jayant@umiacs.umd.edu, UMD college park
+
 #include "stdafx.h"
 
 #include <cv.h>
