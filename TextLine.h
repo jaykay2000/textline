@@ -1,3 +1,5 @@
+//Author : Jayant Kumar, jayant@umiacs.umd.edu, UMD college park
+
 #ifndef TextLine_H_
 #define TextLine_H_
 
